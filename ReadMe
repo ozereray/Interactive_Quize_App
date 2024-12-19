@@ -1,0 +1,59 @@
+Interactive Quiz App
+
+
+This project is a simple and interactive quiz application that allows users to test their knowledge in a fun and educational way.
+
+
+Features
+
+Dynamic question and answer handling.
+
+Score tracking.
+
+Restart functionality to replay the quiz.
+
+Responsive design for both desktop and mobile users.
+
+Technologies Used
+
+
+HTML: Provides the structure of the application.
+
+CSS: Styles the application for a clean and user-friendly interface.
+
+JavaScript: Handles the logic, including question navigation, score calculation, and interaction.
+
+
+How to Run the Project ?
+
+1. Clone the repository: git clone https://github.com/your-username/interactive-quiz-app.git
+
+2. Navigate to the project directory: cd interactive-quiz-app
+
+3. Open the index.html file in your browser to view and interact with the application.
+
+
+File Structure;
+
+interactive-quiz-app/
+├── index.html  # The main HTML file.
+├── styles.css  # Stylesheet for the app.
+├── App.js      # JavaScript logic for the quiz.
+
+
+Contribution Guidelines
+
+1.Fork the repository.
+
+2.Create a new branch: git checkout -b feature-name
+
+3.Make your changes and commit them: git commit -m "Add new feature"
+
+4.Push to the branch: git push origin feature-name
+
+5.Open a pull request.
+
+
+License: This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments: Inspired by the idea of making learning fun and accessible for everyone.
